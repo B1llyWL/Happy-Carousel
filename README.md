@@ -3,7 +3,7 @@ A carousel that spins to music and randomly removes a character. When the carous
 Programming language: Dart
 
 📺 Watch Video:
-Android:
+Android: https://youtu.be/nhNkSwzJSXE?si=1bGr3bhyiNNM_1ij
 Debug: https://youtu.be/SMsIyeqlE8A?si=EgeI4H27_Mj1Ele7
 
 <img width="396" height="898" alt="image" src="https://github.com/user-attachments/assets/6cc858bb-39d5-49da-b338-4ffc05925342" />

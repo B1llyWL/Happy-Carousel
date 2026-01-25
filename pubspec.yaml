@@ -1,0 +1,33 @@
+name: flutter_application_1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.1.0  # Совместимо с Dart 3 и Web
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/001.jpg
+    - assets/124.jpg
+    - assets/222.jpg
+    - assets/230.jpg
+    - assets/258.jpg
+    - assets/380.jpg
+    - assets/388.jpg
+    - assets/456.jpg
+    - assets/sound1.mp3

@@ -44,17 +44,17 @@
 
 <h2 align="center">⚙️ Installation & Download</h2>
 
-<p align="center">
+<p align="left">
   📲 <b>Android:</b> Download the latest APK directly from 
   <a href="https://gamejolt.com/games/happycarouselsquidgame/1033770">GameJolt</a>.
 </p>
 
-<p align="center">
+<p align="left">
   <i>Built with Dart — no additional setup required to run the pre‑compiled version.</i>
 </p>
 
 <hr>
-<p align="center">
+<p align="left">
   A fun side project inspired by carousel mechanics. <br>
   All assets and code are original.
 </p>

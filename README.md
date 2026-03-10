@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center">📸 Screenshots</h2>
+<h2>📸 Screenshots</h2>
 
 <div align="center">
   <!-- Vertical screenshot (mobile) -->
@@ -42,14 +42,14 @@
        style="max-width:100%; height:auto;">
 </div>
 
-<h2 align="center">⚙️ Installation & Download</h2>
+<h2>⚙️ Installation & Download</h2>
 
-<p align="left">
+<p>
   📲 <b>Android:</b> Download the latest APK directly from 
   <a href="https://gamejolt.com/games/happycarouselsquidgame/1033770">GameJolt</a>.
 </p>
 
-<p align="left">
+<p>
   <i>Built with Dart — no additional setup required to run the pre‑compiled version.</i>
 </p>
 

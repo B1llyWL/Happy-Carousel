@@ -56,6 +56,6 @@
 <hr>
 <p align="center">
 A fan project created for fans of Squid Game. <br>
-All characters belong to Netflix. <br>
+All characters and musics belong to Netflix. <br>
 Chibi versions of characters are taken from Pinterest.
 </p>

@@ -54,7 +54,8 @@
 </p>
 
 <hr>
-<p align="left">
-  A fun side project inspired by carousel mechanics. <br>
-  All assets and code are original.
+<p align="center">
+A fan project created for fans of Squid Game. <br>
+All characters belong to Netflix.
+Chibi versions of characters are taken from Pinterest.
 </p>
